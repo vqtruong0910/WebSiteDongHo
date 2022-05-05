@@ -1,4 +1,4 @@
----------------------------------------------------Giới thiệu-------------------------------------------------------
+#Giới thiệu
 Các thành viên trong nhóm:
 1) Trịnh Văn Triều
 2) Lê Hoàng Đức
@@ -9,14 +9,14 @@ Các thành viên trong nhóm:
 7) Trương Khắc Trường
 8) Võ Quang Trường
 9) Phan Quốc Toàn 
----------------------------------------------------Các tài khoản quản trị-------------------------------------------------
+#Các tài khoản quản trị
 *)Tài khoản admin: admin2
 Pass:123
 *)Tài khoản nhân viên quản trị: nhan_vien_quan_tri
 Pass:123
 *)Tài khoản nhân viên bán hàng: nhan_vien_ban_hang
 Pass:123
----------------------------------------------------Các tài khoản người dùng ---------------------------------------------
+Các tài khoản người dùng 
 *)levietsanh123@gmail.com
 Pass: 123456789
 *)trinhvantrieu123@gmail.com
